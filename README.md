@@ -6,4 +6,4 @@ From the [skillFactory Data Science course] (https://skillfactory.ru/data-scienf
 
 # Проекты
 
-* [Проект 1. Анализ вакансий из HeadHunter](https://github.com/Myasnikova186/project-1)
+* [Проект 1. Анализ вакансий из HeadHunter](https://github.com/Myasnikova186/project-1/blob/main/Project-1.ipynb)
